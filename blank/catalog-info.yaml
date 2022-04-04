@@ -11,4 +11,4 @@ spec:
     - ./groups/default-org.yaml
     - ./systems/tap-gui-system.yaml
     - ./domains/tap-gui-domain.yaml
-    - https://github.com/sodhiyas/tanzu-java-web-app-1
+    - https://github.com/sodhiyas/vmware-tap/blob/main/catalog-info.yaml
